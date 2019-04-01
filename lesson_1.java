@@ -11,9 +11,9 @@ public class lesson_1 {
 
     }
     public static void variablesStudied(){
-        byte b1 = 10; // -128 до 127
-        short s1 = 500; // -32k 32k
-        int i1 = 55555; // -2kkk 2kkk
+        byte b1 = 10;
+        short s1 = 500;
+        int i1 = 55555;
         long l1 = 123123123123123L; //
         float f1 = 120.5f;
         double d1 = 120.5;
